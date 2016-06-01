@@ -1,0 +1,79 @@
+@charset "utf-8";
+.position-now{
+	margin-top: 35px;
+}
+.middle{
+	width: 407px;
+	height: 1200px;
+	background-color: #fff;
+	margin-top: 20px;
+}
+.middle .service li{
+	width: 160px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	float: left;
+    font-size: 18px;
+    border:1px solid #DDDDDD;
+    margin-top:30px;
+    margin-right: 8.5px;
+    color: #111;
+}
+.middle .service li:hover{
+	background-color: #e70014;
+	color: #fff;
+}
+.middle .service {
+	margin:30px 35px 15px 35px;
+	margin-right: -8.5px;
+}
+.middle .choose{
+	font-size: 14px;
+	margin-left: 20px;
+	margin-bottom: 15px;
+}
+.middle .choose input{
+	margin-left: 20px;
+}
+.middle .agen{
+	margin-left: 35px;
+	font-size: 14px;
+}
+.middle .agen .provint,.city{
+	width: 160px;
+	height: 30px;
+	margin-right:8.5px ;
+}
+.right-now{
+	margin-top: 20px;
+}
+.right-now .r1{
+    float: left;
+    margin-left: 35px;
+}
+.right-now .r2{
+	float: right;
+	margin-right: 38px;
+}
+.content{
+	width: 335px;
+	height: 950px;
+	border:1px solid #dddddd;
+	margin-left: 35px;
+	margin-top: 5px;
+}
+.pictrue img{
+	width: 755px;
+	height: 100px;
+}
+.middle{
+	float: left;
+}
+.pictrue{
+	float: right;
+	margin-top:20px;
+}
+.pictrue .ditu{
+
+}
